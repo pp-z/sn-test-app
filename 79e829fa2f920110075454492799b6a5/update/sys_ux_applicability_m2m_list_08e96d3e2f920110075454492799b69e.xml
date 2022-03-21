@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list">
+    <sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Audience for appTest App By me">73d96d3e2f920110075454492799b679</applicability>
+        <list display_value="All">c8e96d3e2f920110075454492799b69c</list>
+        <order>100</order>
+        <sys_class_name>sys_ux_applicability_m2m_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-21 12:50:13</sys_created_on>
+        <sys_id>08e96d3e2f920110075454492799b69e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Test App By my" source="x_106284_test_ap_0">79e829fa2f920110075454492799b6a5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test App By my">79e829fa2f920110075454492799b6a5</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_list_08e96d3e2f920110075454492799b69e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-21 12:50:13</sys_updated_on>
+    </sys_ux_applicability_m2m_list>
+</record_update>

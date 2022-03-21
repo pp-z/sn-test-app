@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_106284_test_ap_0.Audience for appTest App By me</api_name>
+        <description/>
+        <name>Audience for appTest App By me</name>
+        <roles name="admin">2831a114c611228501d4ea6c309d626d</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-21 12:50:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>73d96d3e2f920110075454492799b679</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for appTest App By me</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Test App By my" source="x_106284_test_ap_0">79e829fa2f920110075454492799b6a5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test App By my">79e829fa2f920110075454492799b6a5</sys_scope>
+        <sys_update_name>sys_ux_applicability_73d96d3e2f920110075454492799b679</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-21 12:50:12</sys_updated_on>
+    </sys_ux_applicability>
+</record_update>
