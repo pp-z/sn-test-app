@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Test Table" max_length="40" name="x_106284_test_ap_0_test_table" type="collection">
-        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    <element label="Test Table" max_length="40" name="x_106284_test_ap_0_test_table" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" type="string"/>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Test Column 1" max_length="40" name="test_column_1" type="string"/>
         <index name="index">
             <element name="sys_class_name"/>
         </index>
